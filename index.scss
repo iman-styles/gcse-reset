@@ -1,0 +1,42 @@
+// Reset Google custom search box styles
+
+// Reset Search text box
+.gsc-reset form.gsc-search-box,
+.gsc-reset .gsc-search-box,
+.gsc-reset .gsc-input,
+.gsc-reset table,
+.gsc-reset input,
+.gsc-reset .gsc-search-box-tools .gsc-search-box .gsc-input {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	border: none;
+}
+
+.gsc-reset .gsc-input-box-focus {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+// Reset search button
+.gsc-reset .gsc-search-button {
+	border: none;
+	padding: 0;
+}
+
+
+//Reset search results 
+.gsc-reset .r-grid-container .gsc-table-result, 
+.gsc-reset .gsc-thumbnail-inside, 
+.gsc-reset .gsc-url-top,
+.gsc-reset .gsc-control-cse,
+.gsc-reset .gsc-result-info {
+	padding-left: 0;
+}
+
+
+
