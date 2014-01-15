@@ -1,6 +1,4 @@
-// Reset Google custom search box styles
 
-// Reset Search text box
 .gsc-reset form.gsc-search-box,
 .gsc-reset .gsc-search-box,
 .gsc-reset .gsc-input,
@@ -18,18 +16,13 @@
 
 .gsc-reset .gsc-input-box-focus {
 	box-shadow: none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow: none;
 }
 
-// Reset search button
 .gsc-reset .gsc-search-button {
 	border: none;
 	padding: 0;
 }
 
-
-//Reset search results 
 .gsc-reset .r-grid-container .gsc-table-result, 
 .gsc-reset .gsc-thumbnail-inside, 
 .gsc-reset .gsc-url-top,
